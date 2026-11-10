@@ -1,0 +1,13 @@
+# Тест команд этапа 5
+help
+mkdir mydir
+ls
+cd mydir
+mkdir subdir
+ls
+cd ..
+rm /mydir/subdir
+ls /mydir
+rm /mydir
+ls
+rm /nonexistent
