@@ -1,7 +1,0 @@
-# Тест новых команд этапа 4
-rev hello
-rev hello world
-whoami
-tac /home/user/readme.md
-tac /home/user/docs/notes.txt
-tac /nonexistent

@@ -1,6 +1,0 @@
-# Это комментарий, он должен игнорироваться
-echo "Hello from script"
-ls
-cd /tmp
-foobar
-ls
