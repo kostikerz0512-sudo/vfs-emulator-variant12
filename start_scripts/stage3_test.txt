@@ -1,0 +1,9 @@
+# Тест загрузки VFS и motd
+ls
+cd /home
+ls
+cd user
+ls
+cd docs
+ls
+cd /nonexistent
